@@ -49,4 +49,4 @@ For the gene, the request is sent to (eg A00145): `https://www.ebi.ac.uk/ena/dat
 
 For this case, you must have performed the previous step that allows us to obtain the files with the desired content.
 
-To avoid this step you can use the files A00145.txt and A00146.txt that are in the directory [/examples](../Bioinformatic/Assignment_1/examples/README.md).
+To avoid this step you can use the files A00145.txt and A00146.txt that are in the directory `/examples`.
