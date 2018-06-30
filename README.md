@@ -21,3 +21,15 @@ The Forward algorithm will tell us the probability of a particular sequence.
 #### objectives:
 * implementation of a hidden Markov model to predict coding regions (genes present in DNA sequences);
 * Viterbi and Forward algorithms.
+
+---
+
+### Assignment_3
+Implementation of Phylogenetic Trees. </br>
+Phylogenetic trees translate the relationships between sequences (genes or proteins) as well as species. </br>
+The unweighted pair group method with arithmetic (UPGMA) is a simple agglomerative hierarchical clustering method that starts from an array of distances to find the least divergent pair of sequences. </br>
+The distances are then recalculated relative to the new cluster. This process is repeated successively until all the sequences are hierarchically grouped to a single node or root.
+
+#### objectives:
+* implementation of the UPGMA algorithm;
+* compare the UPGMA algorithm with other phylogenetic methods (Phyllip).
